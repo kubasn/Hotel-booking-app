@@ -1,2 +1,2 @@
 # Hotel-booking-app
-React, Bootstrap, JS
+Created with React, Bootstrap, JS, Firebase
